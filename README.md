@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cindy Fernandes - Portfólio de Ciência de Dados
+# ✨ Cindy Fernandes — Portfólio de Ciência de Dados
 
 **Cientista de Dados em Formação · SP, Brasil**
 
@@ -22,7 +22,7 @@ O design segue uma estética **dark tech-purple**, com animações suaves, splas
 
 ## 🖼️ Preview
 
-> 🔗 **[cindy.fernandes.ds](#)** ← *(substitua pelo link do deploy)*
+> 🔗 **[cindy-fernandes-ds.netlify.app](https://cindy-fernandes-ds.netlify.app/)**
 
 | Seção | Descrição |
 |-------|-----------|
@@ -57,10 +57,10 @@ portfolio/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/DyyFe/portfolio.git
+git clone https://github.com/DyyFe/cindy-portfolio.git
 
 # Abra o arquivo
-cd portfolio
+cd cindy-portfolio
 open index.html
 # ou arraste o index.html para o navegador
 ```
@@ -71,7 +71,11 @@ open index.html
 
 ## 📦 Deploy
 
-O site pode ser hospedado gratuitamente em:
+O site está no ar via **Netlify**:
+
+> 🔗 [cindy-fernandes-ds.netlify.app](https://cindy-fernandes-ds.netlify.app/)
+
+Outras opções gratuitas para hospedar:
 
 - **GitHub Pages** — vá em *Settings → Pages → Branch: main → / (root)*
 - **Vercel** — importe o repositório e faça deploy direto
