@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cindy--larissa-a855f7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindy-larissa-cardoso-fernandes-6925a5367/)
 [![GitHub](https://img.shields.io/badge/GitHub-DyyFe-e040a0?style=flat-square&logo=github&logoColor=white)](https://github.com/DyyFe)
-[![Email](https://img.shields.io/badge/Email-larissay710@gmail.com-a855f7?style=flat-square&logo=gmail&logoColor=white)](mailto:larissay710@gmail.com)
 
 </div>
 
@@ -14,7 +13,7 @@
 
 ## 🌐 Sobre o Projeto
 
-Este repositório contém o código-fonte do meu portfólio pessoal — uma página web desenvolvida do zero com **HTML, CSS e JavaScript puro**, sem frameworks externos. O site apresenta minha trajetória, projetos e stack técnica na área de Ciência de Dados e Machine Learning.
+Este repositório contém o código-fonte do meu portfólio pessoal - uma página web desenvolvida do zero com **HTML, CSS e JavaScript puro**, sem frameworks externos. O site apresenta minha trajetória, projetos e stack técnica na área de Ciência de Dados e Machine Learning.
 
 O design segue uma estética **dark tech-purple**, com animações suaves, splash screen, layout responsivo e seções interativas por abas.
 
@@ -22,7 +21,7 @@ O design segue uma estética **dark tech-purple**, com animações suaves, splas
 
 ## 🖼️ Preview
 
-> 🔗 **[cindy.fernandes.ds](#)** ← *(substitua pelo link do deploy)*
+> 🔗 **[https://cindy-fernandes-ds.netlify.app/](#)**
 
 | Seção | Descrição |
 |-------|-----------|
