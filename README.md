@@ -1,11 +1,12 @@
 <div align="center">
 
-# Cindy Fernandes - Portfólio de Ciência de Dados
+# ✨ Cindy Fernandes — Portfólio de Ciência de Dados
 
 **Cientista de Dados em Formação · SP, Brasil**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cindy--larissa-a855f7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindy-larissa-cardoso-fernandes-6925a5367/)
 [![GitHub](https://img.shields.io/badge/GitHub-DyyFe-e040a0?style=flat-square&logo=github&logoColor=white)](https://github.com/DyyFe)
+[![Email](https://img.shields.io/badge/Email-larissay710@gmail.com-a855f7?style=flat-square&logo=gmail&logoColor=white)](mailto:larissay710@gmail.com)
 
 </div>
 
@@ -13,7 +14,7 @@
 
 ## 🌐 Sobre o Projeto
 
-Este repositório contém o código-fonte do meu portfólio pessoal - uma página web desenvolvida do zero com **HTML, CSS e JavaScript puro**, sem frameworks externos. O site apresenta minha trajetória, projetos e stack técnica na área de Ciência de Dados e Machine Learning.
+Este repositório contém o código-fonte do meu portfólio pessoal — uma página web desenvolvida do zero com **HTML, CSS e JavaScript puro**, sem frameworks externos. O site apresenta minha trajetória, projetos e stack técnica na área de Ciência de Dados e Machine Learning.
 
 O design segue uma estética **dark tech-purple**, com animações suaves, splash screen, layout responsivo e seções interativas por abas.
 
@@ -21,7 +22,7 @@ O design segue uma estética **dark tech-purple**, com animações suaves, splas
 
 ## 🖼️ Preview
 
-> 🔗 **[https://cindy-fernandes-ds.netlify.app/](#)**
+> 🔗 **[cindy-fernandes-ds.netlify.app](https://cindy-fernandes-ds.netlify.app/)**
 
 | Seção | Descrição |
 |-------|-----------|
@@ -56,10 +57,10 @@ portfolio/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/DyyFe/portfolio.git
+git clone https://github.com/DyyFe/cindy-portfolio.git
 
 # Abra o arquivo
-cd portfolio
+cd cindy-portfolio
 open index.html
 # ou arraste o index.html para o navegador
 ```
@@ -70,7 +71,11 @@ open index.html
 
 ## 📦 Deploy
 
-O site pode ser hospedado gratuitamente em:
+O site está no ar via **Netlify**:
+
+> 🔗 [cindy-fernandes-ds.netlify.app](https://cindy-fernandes-ds.netlify.app/)
+
+Outras opções gratuitas para hospedar:
 
 - **GitHub Pages** — vá em *Settings → Pages → Branch: main → / (root)*
 - **Vercel** — importe o repositório e faça deploy direto
