@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Cindy Fernandes — Portfólio de Ciência de Dados
+# Cindy Fernandes - Portfólio de Ciência de Dados
 
 **Cientista de Dados em Formação · SP, Brasil**
 
